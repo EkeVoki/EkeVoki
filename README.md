@@ -1,24 +1,42 @@
-## Hi there 👋
+# 👨‍💻 EkeVoki | Junior Python Developer
+**Focusing on automation & game development projects**  
+*Open to internships, mentorship, and collaboration on interesting projects.*
 
-## 🚀 About Me
+## 🧭 About Me
+I see code not just as computer instructions, but as a **unique space for creativity**. I believe that even within the strict boundaries of syntax, one can craft elegant and useful solutions. I recently started my IT journey and am fully immersed in the world of development, where every solved task is a new superpower.
 
-Hi there! I'm EkeVoki, a Junior Programmer who believes that code is a separate, unique space for creativity.
+Special thanks to my **classmate and mentor**, who became my guide into this world and showed me that behind complex terms lies a living and fascinating craft.
 
-**🙏 A special thanks** to my classmate [@Vadim-Khristenko](https://github.com/Vadim-Khristenko) for being my guide into the IT world!
+## 🛠️ Tech Stack & Interests
+*   **Primary Language:** Python
+*   **Currently Learning:** Modern Python, focusing on writing clean and efficient code.
+*   **Areas of Interest:**
+    *   **Game Development & Mechanics** (Acting as a beta-tester and translator for a classmate's project).
+    *   **Task Automation** (Writing scripts to simplify daily digital life).
+    *   **Creating Telegram Bots** (From chat bots to utility helpers).
 
-**💻 Tech Stack & Interests:**
-- **Main Tools:** Python
-- **Currently Exploring:** Databases
-- **Always Curious About:** Game development, automation scripts, and creating bots (mostly in Telegram)
+## 🚀 My Approach
+I value **practice over theory**. I'm currently following a structured roadmap to systematize my knowledge.
 
-**🎯 Current Focus:**
-- Deep-diving into **Telegram bot development with Python**.
-- Building **EkeVokiBot (name TBD)** — a tool for my needs.
+**What I'm looking for:**
+*   An **internship or junior position** where I can apply my knowledge in practice and actively learn.
+*   **Mentorship** from experienced developers.
+*   **Interesting pet-projects or open-source initiatives** for collaboration, especially in game development or automation.
 
-**🍥 Beyond the Screen:**
-When I'm not coding, you're most likely to find me watching anime, battling it out in a strategy game, or learning something new just for fun. I love connecting with people who are passionate about their craft!
+## 🎮 Beyond the Code
+When I'm not programming, you can usually find me:
+*   Watching **anime** (and analyzing story arcs as if they were project architecture).
+*   Playing **popular games** (I always enjoy new games!).
+*   Playing **strategy games** (leveling up logical and systems thinking).
+*   Learning **something new** just out of curiosity (latest interest: IT infrastructure and networks).
+*   Diving into **PC building**, assembling my own setup for comfortable work.
 
-📫 **Let's connect:** `@Official_EkeVoki` (Telegram)
+I'm a **team player** who loves communicating with people passionate about their work, sharing discoveries, and learning from others' experiences.
 
----
-*P.S. Favorite character: Furina from Genshin Impact 🎭*
+## 📁 Portfolio & Contact
+*   **GitHub:** [github.com/EkeVoki](https://github.com/EkeVoki)
+*   **Telegram:** https://t.me/Official_EkeVoki
+* Blog in Habr -[habr.com/ru/users/EkeVoki/](https://habr.com/ru/users/EkeVoki/)
+*   
+## ✨ Why Connect With Me?
+I'm not just looking for my "first job in IT." I'm seeking an **environment for meaningful growth**, where I can contribute with my skills, thirst for knowledge, and responsible approach. If your team values initiative and the desire to understand the essence of things — let's connect!
