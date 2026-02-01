@@ -7,6 +7,14 @@ I see code not just as computer instructions, but as a **unique space for creati
 
 Special thanks to my **classmate and mentor**, who became my guide into this world and showed me that behind complex terms lies a living and fascinating craft.
 
+My skills:
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=scratch&logoColor=white" alt="Scratch">
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+
+
 ## 🛠️ Tech Stack & Interests
 *   **Primary Language:** Python
 *   **Currently Learning:** Modern Python, focusing on writing clean and efficient code.
@@ -40,3 +48,7 @@ I'm a **team player** who loves communicating with people passionate about their
 *   
 ## ✨ Why Connect With Me?
 I'm not just looking for my "first job in IT." I'm seeking an **environment for meaningful growth**, where I can contribute with my skills, thirst for knowledge, and responsible approach. If your team values initiative and the desire to understand the essence of things — let's connect!
+
+
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
