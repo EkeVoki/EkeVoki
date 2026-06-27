@@ -140,5 +140,8 @@ I'm a **team player** who loves communicating with people passionate about their
 ## ✨ Why Connect With Me?
 I'm not just looking for my "first job in IT." I'm seeking an **environment for meaningful growth**, where I can contribute with my skills, thirst for knowledge, and responsible approach. If your team values initiative and the desire to understand the essence of things — let's connect!
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EkeVoki)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hatsune+Miku+-+the+best+chan!+^_^ )](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=39C5BB&lines=Hatsune+Miku+-+the+best+chan!+%255E_%255E&lines=Hatsune+Miku+-+the+best+chan!+^_^ )](https://git.io/typing-svg)
+
