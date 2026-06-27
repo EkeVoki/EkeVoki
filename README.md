@@ -16,14 +16,95 @@ Special thanks to my **classmate and mentor**, who became my guide into this wor
 
 My skills:
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=scratch&logoColor=white" alt="Scratch">
-<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode">
-<img src="https://img.shields.io/badge/Ren'Py-FF7F7F?style=for-the-badge&logo=renpy&logoColor=white&logoSize=auto" alt="Ren'Py">
-<img src="https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=scratch&logoColor=white" alt="Scratch">
-<img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgdmlld0JveD0iMCAwIDY0IDY0Ij48Y2lyY2xlIGN4PSIzMiIgY3k9IjMyIiByPSIzMiIgZmlsbD0iIzRENkJGRSIvPjxwYXRoIGQ9Ik0yMCAyMGwyNCAyNHoiIGZpbGw9IndoaXRlIi8+PC9zdmc+" alt="DeepSeek">
-![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
+<!-- 💻 Languages -->
+<h3 align="center">💻 Languages</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=scratch&logoColor=white" alt="Scratch">
+</p>
+
+<!-- 🛠️ Dev Tools -->
+<h3 align="center">🛠️ Dev Tools</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</p>
+
+<!-- 🎮 Game Dev -->
+<h3 align="center">🎮 Game Dev</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Ren'Py-FF7F7F?style=for-the-badge&logo=renpy&logoColor=white&logoSize=auto" alt="Ren'Py">
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender">
+</p>
+
+<!-- 📱 Social & Messaging -->
+<h3 align="center">📱 Social & Messaging</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch">
+  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube">
+  <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" alt="Zoom">
+</p>
+
+<!-- 🌐 Browsers -->
+<h3 align="center">🌐 Browsers</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" alt="Google Chrome">
+  <img src="https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=TorBrowser&logoColor=white" alt="Tor">
+</p>
+
+<!-- 🎨 Creative -->
+<h3 align="center">🎨 Creative</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B" alt="Krita">
+</p>
+
+<!-- 💰 Support -->
+<h3 align="center">💰 Support</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi">
+  <img src="https://img.shields.io/badge/Boosty-051B2E?style=for-the-badge&logo=boosty&logoColor=white" alt="Boosty">
+</p>
+
+<!-- 🎮 Gaming Platforms -->
+<h3 align="center">🎮 Gaming Platforms</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam">
+  <img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=epicgames&logoColor=white" alt="Epic Games">
+  <img src="https://img.shields.io/badge/Nintendo%20Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white" alt="Nintendo Switch">
+</p>
+
+<!-- 🎵 Utilities -->
+<h3 align="center">🎵 Utilities</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Shazam-0088FF?style=for-the-badge&logo=shazam&logoColor=white" alt="Shazam">
+  <img src="https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=libreoffice&logoColor=white" alt="LibreOffice">
+</p>
+
+<!-- 📊 Office -->
+<h3 align="center">📊 Office</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
+  <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="PowerPoint">
+  <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Word">
+</p>
+
+<!-- 💻 Operating Systems -->
+<h3 align="center">💻 Operating Systems</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
+</p>
+
+<!-- 🔍 Services -->
+<h3 align="center">🔍 Services</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google">
+  <img src="https://img.shields.io/badge/Chess.com-81B64C?style=for-the-badge&logo=chess.com&logoColor=white" alt="Chess.com">
+</p>
 
 ## 🛠️ Tech Stack & Interests
 *   **Primary Language:** Python
