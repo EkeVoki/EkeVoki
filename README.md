@@ -22,6 +22,7 @@ My skills:
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode">
 <img src="https://img.shields.io/badge/Ren'Py-FF7F7F?style=for-the-badge&logo=renpy&logoColor=white&logoSize=auto" alt="Ren'Py">
 <img src="https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=scratch&logoColor=white" alt="Scratch">
+<img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgdmlld0JveD0iMCAwIDY0IDY0Ij48Y2lyY2xlIGN4PSIzMiIgY3k9IjMyIiByPSIzMiIgZmlsbD0iIzRENkJGRSIvPjxwYXRoIGQ9Ik0yMCAyMGwyNCAyNHoiIGZpbGw9IndoaXRlIi8+PC9zdmc+" alt="DeepSeek">
 
 ## 🛠️ Tech Stack & Interests
 *   **Primary Language:** Python
